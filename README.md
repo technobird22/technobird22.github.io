@@ -1,4 +1,4 @@
-# Welcome to site!
+# Welcome to my site!
 ### This is my website for a variety of purposes
 *This is a temporary markdown site hosted via GitHub pages*
 
