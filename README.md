@@ -12,4 +12,4 @@ I am also starting a YouTube channel which you can check out here: [https://www.
 ## Projects
 - **GeoCapture Viewer**: [https://techno.nzbird.com/geocapture/live_viewer/captures.html](https://techno.nzbird.com/geocapture/live_viewer/captures.html)
 
-- **WxCapture**: [https://techno.nzbird.com/geocapture/live_viewer/captures.html](https://github.com/wxcapture/wxcapture)
+- **WxCapture**: [https://github.com/wxcapture/wxcapture](https://github.com/wxcapture/wxcapture)
